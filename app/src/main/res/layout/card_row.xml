@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="9">
+
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="6dp"
+        android:padding="8dp"
+        android:layout_weight="0.3"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="4dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="6.2"
+        android:padding="8dp"
+        android:text="Restaurant name"
+        android:id="@+id/txtCartItemName"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black"/>
+
+
+    <TextView
+        android:id="@+id/txtCartPrice"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="2.5"
+        android:padding="6dp"
+        android:text="@string/rate"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

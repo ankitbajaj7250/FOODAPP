@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="my_account">My Account</string>
+    <string name="ans1">We make it easy for companies to order from top local restaurants for meetings and work events by providing a large variety of carefully curated menus through our online ordering platform. We also offer personalized service from start to finish including a local account manager to help cater to your needs, a live concierge team for real-time support, and professional drivers to ensure your order is accurate and delivered on time. You can order online, by email at order@foodapp.mail or by phone at 9784432897 FOODAPP.</string>
+    <string name="Q1">Q.1 How does FoodApp work?</string>
+    <string name="Q2">Q.2 What kind of restaurants can I expect?</string>
+    <string name="ans2">We partner with top local restaurants your team loves, from local landmarks to hidden hotspots. Our wide selection of restaurants allows you to choose from many cuisine types. Best of all we\'re always adding new ones, lookout for your new favorite restaurant coming soon!</string>
+    <string name="Q3">Q.3 What type of events and meals do you serve?</string>
+    <string name="ans3">We serve every type of meal for any corporate function. Small breakfast meeting for 5? We got you covered. Overtime team dinner for 50? No problem. Organizing a 1000 person office party? We can do that too! You can even send another company the gift of food, nothing says thank you like a box of your city\'s best donuts! Not sure what you need? From restaurant choice, to menu planning, to budget management, our local food experts are in your city and available to cater to your needs.</string>
+    <string name="Q4">Q.4 What\'s the minimum order size?</string>
+    <string name="ans4">The minimum order size is 100 INR (excluding taxes and our delivery fee).</string>
+    <string name="Q5">Q.5 What if I\'m not sure what I want to order?</string>
+    <string name="ans5">Our local food experts can help with restaurant choice, menu planning and budget management. Contact us by email at order@food.mail or by phone at 9784432897 FOODAPP .</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="choose_menu_list">Choose from menu listed below:</string>
+    <string name="restaurant_name">Restaurant_name</string>
+    <string name="rate">Rs. 125</string>
+    <string name="place_order">your order has been successfully placed</string>
+</resources>
